@@ -1,6 +1,6 @@
 ---
 name: Keven Vega
-semester: Fall 2023
+semester: Fall 23
 Course: CIS 106 Linux Fundamentals
 ---
 
