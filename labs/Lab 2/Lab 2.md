@@ -4,7 +4,7 @@ semester: Fall 2023
 Course: CIS 106 Linux Fundamentals
 ---
 
-#Lab 2 Installing Ubuntu Submission
+# Lab 2 Installing Ubuntu Submission
 
 ## Q 1
 ![Q1](Q1.png)
