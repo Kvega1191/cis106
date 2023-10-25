@@ -118,23 +118,28 @@ A terminal emulator is a program that allows you to access the Linux CLI
 
 ### Managing Software
 **Which command is used for updating ubuntu**
+
 sudo apt update; sudo apt upgrade -y
 
 **Which command is used for installing software. Provide an example.**
+
 sudo apt install firefox flameshot caffeine -y
 
 **Which command is used for removing software. Provide an example.**
+
 sudo apt remove firefox flameshot caffeine -y
 
 **Which command is used for searching for software. Provide an example.**
+
 apt search "web browser"
 
 **Definition of the following terms:**
-#####Package:
+
+Package:
 a collection of computer programs and related data that perform specific functions or tasks
 
-#####Library:
+Library:
 a collection of files, programs, routines, scripts, or functions that can be referenced in the programming code
 
-#####Repository:
+Repository:
 a centralized digital storage that developers use to make and manage changes to an application's source code
