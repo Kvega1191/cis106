@@ -23,7 +23,7 @@ course: cis 106
    *touch pets/old/file1
    *touch pets/new/file3
 * **How do you remove a file? Provide an example.**
-  rm command 
+rm command 
    * rm /home/keven/lab5/pets
 * **How do you remove a directory and can you remove non-empty directories in Linux? Provide an example**
   rm and you can remove a none-empty directory with rm -r
